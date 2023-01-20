@@ -1,0 +1,92 @@
+my_vrb,acs_code,acs_label,acs_concept
+males_occ_professional,C24040_018,"Estimate!!Total!!Male!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services","SEX BY INDUSTRY FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER"
+males_occ_management,C24040_019,"Estimate!!Total!!Male!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises","SEX BY INDUSTRY FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER"
+males_occ_total,C24040_002,Estimate!!Total!!Male,"SEX BY INDUSTRY FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER"
+fem_occ_professional,C24040_045,"Estimate!!Total!!Female!!Professional, scientific, and management, and administrative and waste management services!!Professional, scientific, and technical services","SEX BY INDUSTRY FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER"
+fem_occ_management,C24040_046,"Estimate!!Total!!Female!!Professional, scientific, and management, and administrative and waste management services!!Management of companies and enterprises","SEX BY INDUSTRY FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER"
+fem_occ_total,C24040_029,Estimate!!Total!!Female,"SEX BY INDUSTRY FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER"
+over_25_less_than_hs_graduate,B16010_002,Estimate!!Total!!Less than high school graduate,EDUCATIONAL ATTAINMENT AND EMPLOYMENT STATUS BY LANGUAGE SPOKEN AT HOME FOR THE POPULATION 25 YEARS AND OVER
+over_25_total,B16010_001,Estimate!!Total,EDUCATIONAL ATTAINMENT AND EMPLOYMENT STATUS BY LANGUAGE SPOKEN AT HOME FOR THE POPULATION 25 YEARS AND OVER
+family_type_total,B11003_001,Estimate!!Total,FAMILY TYPE BY PRESENCE AND AGE OF OWN CHILDREN
+family_type_single,B11003_008,Estimate!!Total!!Other family,FAMILY TYPE BY PRESENCE AND AGE OF OWN CHILDREN
+family_type_female_householder,B11003_015,"Estimate!!Total!!Other family!!Female householder, no husband present",FAMILY TYPE BY PRESENCE AND AGE OF OWN CHILDREN
+pop_non_hispanic_black,B03002_004,Estimate!!Total!!Not Hispanic or Latino!!Black or African American alone,HISPANIC OR LATINO ORIGIN BY RACE
+pop_total,B01003_001,Estimate!!Total,TOTAL POPULATION
+public_assistance,B19057_002,Estimate!!Total!!With public assistance income,PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS FOR HOUSEHOLDS
+public_assistance_total,B19057_001,Estimate!!Total,PUBLIC ASSISTANCE INCOME IN THE PAST 12 MONTHS FOR HOUSEHOLDS
+below_poverty_line,"	B17001_002",Estimate!!Total!!Income in the past 12 months below poverty level,POVERTY STATUS IN THE PAST 12 MONTHS BY SEX BY AGE (SOME OTHER RACE ALONE)
+poverty_total,B17001_001,Estimate!!Total,POVERTY STATUS IN THE PAST 12 MONTHS BY SEX BY AGE (SOME OTHER RACE ALONE)
+vehicle_none,B08201_002,Estimate!!Total!!No vehicle available,HOUSEHOLD SIZE BY VEHICLES AVAILABLE
+vehicle_total,B08201_001,Estimate!!Total,HOUSEHOLD SIZE BY VEHICLES AVAILABLE
+housing_rental,B25026_009,Estimate!!Total population in occupied housing units!!Renter occupied,TOTAL POPULATION IN OCCUPIED HOUSING UNITS BY TENURE BY YEAR HOUSEHOLDER MOVED INTO UNIT
+housing_total,B25026_001,Estimate!!Total population in occupied housing units,TOTAL POPULATION IN OCCUPIED HOUSING UNITS BY TENURE BY YEAR HOUSEHOLDER MOVED INTO UNIT
+num_occupants_total,B25014_001,Estimate!!Total,TENURE BY OCCUPANTS PER ROOM
+num_occupants_1.01_1.5_owned,B25014_005,Estimate!!Total!!Owner occupied!!1.01 to 1.50 occupants per room,TENURE BY OCCUPANTS PER ROOM
+num_occupants_1.51_2_owned,B25014_006,Estimate!!Total!!Owner occupied!!1.51 to 2.00 occupants per room,TENURE BY OCCUPANTS PER ROOM
+num_occupants_2.1_up_owned,B25014_007,Estimate!!Total!!Owner occupied!!2.01 or more occupants per room,TENURE BY OCCUPANTS PER ROOM
+num_occupants_1.01_1.5_rented,B25014_011,Estimate!!Total!!Renter occupied!!1.01 to 1.50 occupants per room,TENURE BY OCCUPANTS PER ROOM
+num_occupants_1.51_2_rented,B25014_012,Estimate!!Total!!Renter occupied!!1.51 to 2.00 occupants per room,TENURE BY OCCUPANTS PER ROOM
+num_occupants_2.1_up_rented,B25014_013,Estimate!!Total!!Renter occupied!!2.01 or more occupants per room,TENURE BY OCCUPANTS PER ROOM
+over_16_total,B23025_001,Estimate!!Total,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER
+over_16_unemployed,B23025_005,Estimate!!Total!!In labor force!!Civilian labor force!!Unemployed,EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER
+phone_service_owned,B25043_003,Estimate!!Total!!Owner occupied!!With telephone service available,TENURE BY TELEPHONE SERVICE AVAILABLE BY AGE OF HOUSEHOLDER
+phone_service_rented,B25043_012,Estimate!!Total!!Renter occupied!!With telephone service available,TENURE BY TELEPHONE SERVICE AVAILABLE BY AGE OF HOUSEHOLDER
+phone_service_total,B25043_001,Estimate!!Total,TENURE BY TELEPHONE SERVICE AVAILABLE BY AGE OF HOUSEHOLDER
+broadband_total,B28002_001,Estimate!!Total,PRESENCE AND TYPES OF INTERNET SUBSCRIPTIONS IN HOUSEHOLD
+broadband_any,B28002_004,Estimate!!Total!!With an Internet subscription!!Broadband of any type,PRESENCE AND TYPES OF INTERNET SUBSCRIPTIONS IN HOUSEHOLD
+white_total,B02001_001,Estimate!!Total,RACE
+white,B02001_002,Estimate!!Total!!White alone,RACE
+hispanic_total,B03001_001,Estimate!!Total,HISPANIC OR LATINO ORIGIN BY SPECIFIC ORIGIN
+hispanic,B03001_003,Estimate!!Total!!Hispanic or Latino,HISPANIC OR LATINO ORIGIN BY SPECIFIC ORIGIN
+male_total,B01001_001,Estimate!!Total,SEX BY AGE
+male,B01001_002,Estimate!!Total!!Male,SEX BY AGE
+male_under_5,B01001_003,Estimate!!Total!!Male!!Under 5 years,SEX BY AGE
+male_5_9,B01001_004,Estimate!!Total!!Male!!5 to 9 years,SEX BY AGE
+male_10_14,B01001_005,Estimate!!Total!!Male!!10 to 14 years,SEX BY AGE
+male_15_17,B01001_006,Estimate!!Total!!Male!!15 to 17 years,SEX BY AGE
+male_18_19,B01001_007,Estimate!!Total!!Male!!18 and 19 years,SEX BY AGE
+male_20,B01001_008,Estimate!!Total!!Male!!20 years,SEX BY AGE
+male_21,B01001_009,Estimate!!Total!!Male!!21 years,SEX BY AGE
+male_22_24,B01001_010,Estimate!!Total!!Male!!22 to 24 years,SEX BY AGE
+male_25_29,B01001_011,Estimate!!Total!!Male!!25 to 29 years,SEX BY AGE
+male_30_34,B01001_012,Estimate!!Total!!Male!!30 to 34 years,SEX BY AGE
+male_35_39,B01001_013,Estimate!!Total!!Male!!35 to 39 years,SEX BY AGE
+male_40_44,B01001_014,Estimate!!Total!!Male!!40 to 44 years,SEX BY AGE
+male_45_49,B01001_015,Estimate!!Total!!Male!!45 to 49 years,SEX BY AGE
+male_50_54,B01001_016,Estimate!!Total!!Male!!50 to 54 years,SEX BY AGE
+male_55_59,B01001_017,Estimate!!Total!!Male!!55 to 59 years,SEX BY AGE
+male_60_61,B01001_018,Estimate!!Total!!Male!!60 and 61 years,SEX BY AGE
+male_62_64,B01001_019,Estimate!!Total!!Male!!62 to 64 years,SEX BY AGE
+male_65_66,B01001_020,Estimate!!Total!!Male!!65 and 66 years,SEX BY AGE
+male_67_69,B01001_021,Estimate!!Total!!Male!!67 to 69 years,SEX BY AGE
+male_70_74,B01001_022,Estimate!!Total!!Male!!70 to 74 years,SEX BY AGE
+male_75_79,B01001_023,Estimate!!Total!!Male!!75 to 79 years,SEX BY AGE
+male_80_84,B01001_024,Estimate!!Total!!Male!!80 to 84 years,SEX BY AGE
+male_85_over,B01001_025,Estimate!!Total!!Male!!85 years and over,SEX BY AGE
+female_total ,B01001_026,Estimate!!Total!!Female,SEX BY AGE
+female_under_5,B01001_027,Estimate!!Total!!Female!!Under 5 years,SEX BY AGE
+female_5_9,B01001_028,Estimate!!Total!!Female!!5 to 9 years,SEX BY AGE
+female_10_14,B01001_029,Estimate!!Total!!Female!!10 to 14 years,SEX BY AGE
+female_15_17,B01001_030,Estimate!!Total!!Female!!15 to 17 years,SEX BY AGE
+female_18_19,B01001_031,Estimate!!Total!!Female!!18 and 19 years,SEX BY AGE
+female_20,B01001_032,Estimate!!Total!!Female!!20 years,SEX BY AGE
+female_21,B01001_033,Estimate!!Total!!Female!!21 years,SEX BY AGE
+female_22_24,B01001_034,Estimate!!Total!!Female!!22 to 24 years,SEX BY AGE
+female_25_29,B01001_035,Estimate!!Total!!Female!!25 to 29 years,SEX BY AGE
+female_30_34,B01001_036,Estimate!!Total!!Female!!30 to 34 years,SEX BY AGE
+female_35_39,B01001_037,Estimate!!Total!!Female!!35 to 39 years,SEX BY AGE
+female_40_44,B01001_038,Estimate!!Total!!Female!!40 to 44 years,SEX BY AGE
+female_45_49,B01001_039,Estimate!!Total!!Female!!45 to 49 years,SEX BY AGE
+female_50_54,B01001_040,Estimate!!Total!!Female!!50 to 54 years,SEX BY AGE
+female_55_59,B01001_041,Estimate!!Total!!Female!!55 to 59 years,SEX BY AGE
+female_60_61,B01001_042,Estimate!!Total!!Female!!60 and 61 years,SEX BY AGE
+female_62_64,B01001_043,Estimate!!Total!!Female!!62 to 64 years,SEX BY AGE
+female_65_66,B01001_044,Estimate!!Total!!Female!!65 and 66 years,SEX BY AGE
+female_67_69,B01001_045,Estimate!!Total!!Female!!67 to 69 years,SEX BY AGE
+female_70_74,B01001_046,Estimate!!Total!!Female!!70 to 74 years,SEX BY AGE
+female_75_79,B01001_047,Estimate!!Total!!Female!!75 to 79 years,SEX BY AGE
+female_80_84,B01001_048,Estimate!!Total!!Female!!80 to 84 years,SEX BY AGE
+female_85_over,B01001_049,Estimate!!Total!!Female!!85 years and over,SEX BY AGE
+broadband_comp_total,B28003_001,Estimate!!Total,
+broadband_comp,B28003_004,Estimate!!Total!!Has a computer!!With a broadband Internet subscription,
+broadband_comp_dial,B28003_003,Estimate!!Total!!Has a computer!!With dial-up Internet subscription alone,
