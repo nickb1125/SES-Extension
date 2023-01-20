@@ -3,7 +3,7 @@ Mapping, cleaning, and pulling function extensions for tidycensus SES package
 
 **NOTE: Open usage_example.html in example folder to see how pulling and functions work. In order to use functions, you will need to (1) get tidycensus key and (2) pull shape data using a few lines. These processes are both described in usage_example.html.**
 
-Note that all pulled data is based on previous 5 year census averages (ie. 2020 = 2015-2020 average) as we have found this to be most reliable window. Alternatives that could be implimented include 10 year averages as well as individual years, which we have found to be highly unstable.
+Note that all pulled data is based on previous 5 year census averages (ie. 2020 = 2015-2020 average) as we have found this to be most reliable window. Alternatives that could be implimented include 10 year averages as well as individual years, which we have found to be highly unstable. Also note that data cleaning reflects the census codes that have been used previously (which are found in codes_data folder) and additonal cleaning would likely need to be implimented in the get_ACS() functions if previously unpulled variables were added.
 
 ## Pulling Functions
 
